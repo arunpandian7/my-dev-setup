@@ -5,4 +5,4 @@ wget -O ~/Downloads/code.deb https://code.visualstudio.com/sha/download?build=st
 sudo apt install ~/Downloads/code.deb
 
 #Install Python and Pip
-sudo apt install python3 python3-pip
+sudo apt install python3 python3-pip python3-venv
